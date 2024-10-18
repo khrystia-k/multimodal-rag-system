@@ -33,6 +33,9 @@ Upload necessary packages:
 cd multimodal-rag-system
 pip install -r requirements.txt
 ```
+
+Generate your [OpenAI](https://platform.openai.com/) key and put it into the .env file in the format `OPENAI_API_KEY=your_generated_key`.
+
 Run **`rag.ipynb`** file.
 
 # Demo (video)
