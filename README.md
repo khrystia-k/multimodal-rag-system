@@ -30,6 +30,7 @@ git clone https://github.com/khrystia-k/multimodal-rag-system
 ```
 Upload necessary packages:
 ```
+cd multimodal-rag-system
 pip install -r requirements.txt
 ```
 Run **`rag.ipynb`** file.
