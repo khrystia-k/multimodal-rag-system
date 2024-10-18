@@ -1,0 +1,10 @@
+{
+    "data-points": "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Adata-points&page=",
+    "research" : "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Aresearch&page=",
+    "business" : "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Abusiness&page=",
+    "science" : "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Ascience&page=",
+    "culture" : "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Aculture&page=",
+    "hardware" : "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Ahardware&page=",
+    "ai-careers" : "https://dl-staging-website.ghost.io/ghost/api/content/posts/?key=a4b216e975091c63cc39c1ac98&limit=15&include=tags%2Cauthors&filter=tag%3Aai-careers&page="
+
+}
