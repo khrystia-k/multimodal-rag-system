@@ -30,7 +30,7 @@ git clone https://github.com/khrystia-k/multimodal-rag-system
 ```
 Upload necessary packages:
 ```
-pip install requarements.txt
+pip install requirements.txt
 ```
 Run **`rag.ipynb`** file.
 
